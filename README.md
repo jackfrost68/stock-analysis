@@ -32,8 +32,6 @@ Below is the execution time of the refactored script.
 
 The refactored script executed faster than the original script. 
 
-Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
-
 # Summary 
 1. Refactoring code can help developers improve their code by making it easier to read and find bugs as well as making it run faster. However, refactoring code takes a long time and can be costly. 
 2. With regards to the original VBA script, refactoring it made it faster to execute and easier to add more functionality to it in the future. 
